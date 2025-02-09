@@ -1394,7 +1394,6 @@ ul.list-inline li {
 .site-navbar-wrap {
   z-index: 99;
   transition: 0.3s all ease;
-  background-color: #000000 !important;
 }
 
 .site-navbar-wrap .navbar-brand {
